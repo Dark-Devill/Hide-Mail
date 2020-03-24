@@ -7,7 +7,6 @@ coded by Dark Devil
 import requests
 
 print("\nAnonymous Email by Dark Devil(Anson Benny)")
-print("coded by Arjun arz (mallu youtuber) \n")
 to = raw_input('to: ')
 subject = raw_input('subject: ')
 message = raw_input('message: ')
