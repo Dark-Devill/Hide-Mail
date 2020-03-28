@@ -1,6 +1,6 @@
 # Hide Mail
 Python script to send anonymous email using anonymouse.org
-# coded by Dark Devil
+# coded by CYBER ATTACK
 
 ## installation 
 
