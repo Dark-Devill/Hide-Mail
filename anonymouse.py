@@ -1,12 +1,12 @@
 
 
 
-coded by Dark Devil
+coded by Cyber Attack
 
 	
 import requests
 
-print("\nAnonymous Email by Dark Devil(Anson Benny)")
+print("\nAnonymous Email by Cyber Attack")
 to = raw_input('to: ')
 subject = raw_input('subject: ')
 message = raw_input('message: ')
